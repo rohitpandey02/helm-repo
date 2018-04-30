@@ -8,6 +8,6 @@ entries:
     digest: 047a313cb83b99a3bab6a1adf5dca86d4eafe85f18ea5f223b6c5cb6bf8f6283
     name: elk_kafka_rest
     urls:
-    - elk_kafka_rest-0.1.0.tgz
+    - https://raw.githubusercontent.com/rohitpandey02/helm-repo/master/elk_kafka_rest-0.1.0.tgz
     version: 0.1.0
 generated: 2018-04-30T07:28:17.1981641Z
